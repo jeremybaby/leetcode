@@ -9,11 +9,12 @@ class Solution:
         while (a):
            temp =  a % 10
            num = num * 10 + temp
-           a = int(a / 10)
+           # a = int(a / 10)
+           a = a // 10
 
         if x > 0 and num <= 2**31-1:
             return num
         elif x < 0 and num <= 2**31:
             return -num
         else:
-            return 0
+            return   0
