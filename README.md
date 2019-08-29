@@ -6,6 +6,7 @@
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/007_reverse_int.py)| Easy |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/009_Palindrome_Number.py) | Easy |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/submissions/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/013_Roman_To_Integer.py ) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/014_longest_common_prefix.py ) | Easy |
 | 26| [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/26_remove_duplicates.c) |Easy|
 | 27| [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/27_remoce_element.c) |Easy|
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/33_search_in_rotated_sorted_array.c),[Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/33_search_in_rotated_sorted_array.py)  | Medium |
