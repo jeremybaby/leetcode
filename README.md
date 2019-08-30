@@ -19,6 +19,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/053_maximum_subarray.py ) | Easy |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/058_length_of_last_word.py ) | Easy |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/066_plus_one.py ) | Easy |
+| 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/067_add_binary.py ) | Easy |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c)  | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/74_Serach_2D_Matrix.c)  | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/80_Remove_Duplicates_from_sorted_array_II.c) | Medium |
