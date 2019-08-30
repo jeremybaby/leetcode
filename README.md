@@ -11,6 +11,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C](https://github.com/jeremybaby/leetcode/blob/master/C/021_merge_two_sorted_array.c),[Python](https://github.com/jeremybaby/leetcode/blob/master/Python/021_merge_two_sorted_array.py ) | Easy |
 | 26| [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/26_remove_duplicates.c) |Easy|
 | 27| [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/27_remoce_element.c) |Easy|
+| 28 | [Implement strStr](https://leetcode-cn.com/problems/implement-strstr/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/028_imp_strStr.py ) | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/33_search_in_rotated_sorted_array.c),[Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/33_search_in_rotated_sorted_array.py)  | Medium |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/35_search_insert_position.c)  | Easy |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c)  | Easy |
