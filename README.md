@@ -4,6 +4,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 |# | Title | Solution | Difficulty
 | :----: | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/1_twosum_sort_2pointer.c),[Python](https://github.com/jeremybaby/leetcode/blob/master/Python/001_two_sum.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [C](https://github.com/jeremybaby/leetcode/blob/master/C/002_add_two_numbers.c ) | Medium |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/007_reverse_int.py)| Easy |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/009_Palindrome_Number.py) | Easy |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/submissions/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/013_Roman_To_Integer.py ) | Easy |
