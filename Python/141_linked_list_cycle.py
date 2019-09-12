@@ -5,7 +5,7 @@
 #         self.next = None
 
 class Solution1(object):
-    """集合存储所有节点，Time: O(n), Space: O(1)"""
+    """集合存储所有节点，Time: O(n), Space: O(n)"""
     def hasCycle(self, head):
         """
         :type head: ListNode
