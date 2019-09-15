@@ -33,7 +33,7 @@ class Solution2(object):
         while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
-            
+
             # 有环存在
             if (slow == fast):
                 # slow和head相交时，即为环的入口

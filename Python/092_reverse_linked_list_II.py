@@ -4,8 +4,9 @@
 #         self.val = x
 #         self.next = None
 
-class Solution:
-    def reverseBetween(self, head: ListNode, m: int, n: int) -> ListNode:
+class Solution1:
+    def reverseBetween(self, head, m, n):
+        """[1, 2, 3, 4, 5] --(2，4)--> [1, 4, 3, 2 ,5]"""
         dummy = ListNode(0)
         dummy.next = head
         i = 1
@@ -17,24 +18,40 @@ class Solution:
             i += 1
 
         # mid_head = 1
-        mid_tail = head  # head = 2
+        # mid_tail = 2
+        mid_tail = head
 
         prev = None
         while i >= m and i <= n:
-            temp = head.next  # temp = 3, 4, 5
-            head.next = prev  # 4 --> 3 --> 2--> NULL
-            prev = head  # prev = 2, 3, 4
-            head = temp  # head = 3, 4, 5
-            i += 1  # i = 3, 4, 5
+            temp = head.next
+            head.next = prev
+            prev = head
+            head = temp
+            i += 1
         # head = 5 prev = 4
 
         mid_head.next = prev
         mid_tail.next = head
 
-        #         while dummy.next:
-        #             dummy = dummy.next
-        #             print(dummy.val)
         return dummy.next
 
 
+class Solution2:
+    def reverseBetween(self, head, m, n):
+        """"""
+        pre = dummy = ListNode(0)
+        dummy.next = head
+        i = 1
 
+        while i < m:
+            pre = pre.next
+
+        cur = pre.next
+
+        while i >= m and i <= n:
+            temp = cur.next
+            cur.next = temp.next
+            temp.next = pre.next
+            pre.next = temp
+
+        return dummy.next
