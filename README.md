@@ -41,6 +41,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/234_palindrome_linked_list.py ) | Linked List | Medium |
 | 275 | [H-Index II](https://leetcode-cn.com/problems/h-index-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/275_H_index_II.c)  | | Medium |
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/278_first_bad_version_template1.c)  | | Easy |
+| 328 | [Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/328_odd_even_linked_list.py ) | Linked List | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/349_array_intersection.py)  | | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/350_array_intersectionII.py)  | | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode-cn.com/problems/koko-eating-bananas/) | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/875_koko_eating_bananas.c)  | | Medium |
