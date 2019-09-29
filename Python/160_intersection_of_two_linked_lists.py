@@ -44,6 +44,24 @@ class Solution1(object):
 
 
 class Solution2(object):
+    def getIntersectionNode(self, headA, headB):
+        """
+          - 遍历链表 A 并将每个结点的地址/引用存储在哈希表中。
+          - 然后检查链表 B 中的每一个结点是在A中，若在，即返回
+        """
+        setA = set()
+        ha, hb = headA, headB
+        while ha:
+            setA.add(ha)
+            ha = ha.next
+
+        while hb:
+            if hb in setA:
+                return hb
+            hb = hb.next
+        return None
+
+class Solution3(object):
     """ 环的思想
         ha --> hb --> None
         hb --> ha --> None
