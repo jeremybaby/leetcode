@@ -21,6 +21,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/038_count_and_say.py ) | | Easy |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/053_maximum_subarray.py ) | | Easy |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/058_length_of_last_word.py ) | | Easy |
+| 61 | [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/061_rotate_list.py ) | Linked List | Medium |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/066_plus_one.py ) | | Easy |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/067_add_binary.py ) | | Easy |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c)  | | Easy |
