@@ -5,7 +5,7 @@
 #         self.next = None
 
 class Solution:
-    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+    def reverseKGroup(self, head, k):
 
         def reverseList(head):
             prev = None
@@ -59,7 +59,7 @@ class Solution:
 #         self.next = None
 
 class Solution:
-    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+    def reverseKGroup(self, head, k):
         if not head or not head.next or k == 1:
             return head
 
