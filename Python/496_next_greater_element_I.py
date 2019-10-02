@@ -1,4 +1,5 @@
-class Solution:
+class Solution1:
+    """Brute Force"""
     def nextGreaterElement(self, nums1, nums2):
         res = []
 
@@ -14,3 +15,18 @@ class Solution:
                 res.append(-1)
 
         return res
+
+class Solution2:
+    """单调栈: """
+    def nextGreaterElement(self, nums1, nums2):
+
+        dict, stack = {}, []
+        # 建立一个从左往右单调递减的栈
+
+        for n in nums2:
+            # 只要有栈顶小于当前值就弹栈
+            while stack and stack[-1] < n:
+                dict[stack.pop()] = n
+            stack.append(n)
+
+        return [dict.get(i, -1) for i in nums1]
