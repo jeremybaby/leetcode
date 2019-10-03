@@ -54,6 +54,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 328 | [Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/328_odd_even_linked_list.py ) | Linked List | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/349_array_intersection.py)  | | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/350_array_intersectionII.py)  | | Easy |
+| 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/461_hamming_distance.py ) | Bit Manipulation | Easy |
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/496_next_greater_element_I.py ) | Stack | Easy |
 | 503 | [Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/503_next_greater_element_II.py ) | Stack | Medium |
 | 707 | [Design Linked List](https://leetcode-cn.com/problems/design-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/707_design_linked_list.py ) | Linked List | Easy |
