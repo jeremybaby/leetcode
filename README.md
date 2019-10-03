@@ -48,6 +48,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/206_reverse_linked_list.py ) | Linked List | Easy |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/234_palindrome_linked_list.py ) | Linked List | Medium |
 | 260 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/260_single_number3.py ) | Bit Manipulation | Medium |
+| 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/268_missing_number.py ) | Bit Manipulation | Easy |
 | 275 | [H-Index II](https://leetcode-cn.com/problems/h-index-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/275_H_index_II.c)  | | Medium |
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/278_first_bad_version_template1.c)  | | Easy |
 | 328 | [Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/328_odd_even_linked_list.py ) | Linked List | Medium |

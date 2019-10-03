@@ -72,7 +72,7 @@ class Solution:
 
         32位整数中-2147483648到2147 483 647（-2^31~2^31-1）
     """
-    def singleNumber(self, nums: List[int]) -> int:
+    def singleNumber(self, nums):
 
         ans = 0
         for i in range(32):
