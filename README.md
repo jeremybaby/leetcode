@@ -53,6 +53,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 275 | [H-Index II](https://leetcode-cn.com/problems/h-index-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/275_H_index_II.c)  | | Medium |
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/278_first_bad_version_template1.c)  | | Easy |
 | 328 | [Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/328_odd_even_linked_list.py ) | Linked List | Medium |
+| 342 | [ Power of Four](https://leetcode-cn.com/problems/power-of-four/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/342_power_of_four.py ) | Bit Manipulation | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/349_array_intersection.py)  | | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/350_array_intersectionII.py)  | | Easy |
 | 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/461_hamming_distance.py ) | Bit Manipulation | Easy |
