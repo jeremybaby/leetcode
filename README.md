@@ -33,6 +33,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/092_reverse_linked_list_II.py ) | Linked List | Medium |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/100_same_tree.py ) | | Easy |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/136_single_number.py ) | Bit Manipulation | Easy |
+| 137 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/137_single_number2.py ) | Bit Manipulation | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/138_copy_list_with_random_pointer.py ) | Linked List | Medium |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/141_linked_list_cycle.py ) | Linked List | Easy |
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/142_linked_list_cycle_II.py ) | Linked List | Medium |
