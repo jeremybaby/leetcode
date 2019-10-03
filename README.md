@@ -46,6 +46,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 201 | [Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/201_bitwise_and_of_numbers_range.py ) | Bit Manipulation | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/203_remove_linked_list_elements.py ) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/206_reverse_linked_list.py ) | Linked List | Easy |
+| 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/231_power_of_two.py ) | Bit Manipulation | Easy |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/234_palindrome_linked_list.py ) | Linked List | Medium |
 | 260 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/260_single_number3.py ) | Bit Manipulation | Medium |
 | 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/268_missing_number.py ) | Bit Manipulation | Easy |
