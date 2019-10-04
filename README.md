@@ -58,6 +58,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/349_array_intersection.py)  | | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)  | [Python](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/350_array_intersectionII.py)  | | Easy |
 | 371 | [Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/371_sum_of_two_integers.py ) | Bit Manipulation | Easy |
+| 389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/389_find_the_difference.py ) | Bit Manipulation | Easy |
 | 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/461_hamming_distance.py ) | Bit Manipulation | Easy |
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/496_next_greater_element_I.py ) | Stack | Easy |
 | 503 | [Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/503_next_greater_element_II.py ) | Stack | Medium |
