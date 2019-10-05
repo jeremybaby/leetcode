@@ -43,6 +43,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 160 | [Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/160_intersection_of_two_linked_lists.py ) | Linked List | Easy |
 | 162 | [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/162_find_peak_element.c)  | | Medium |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/169_majority_element.py ) | Bit Manipulation | Easy |
+| 187 | [Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/187_repeated_dna_sequences.py ) | Bit Manipulation | Medium |
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/190_reverse_bits.py ) | Bit Manipulation | Easy |
 | 191 | [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/191_number_of_1_Bits.py ) | Bit Manipulation | Easy |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/201_bitwise_and_of_numbers_range.py ) | Bit Manipulation | Medium |
