@@ -26,6 +26,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/067_add_binary.py ) | | Easy |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c)  | | Easy |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/070_climbing_stairs.py ) | | Easy |
+| 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/71_simplify_path.py ) | Stack | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/74_Serach_2D_Matrix.c)  | | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/80_Remove_Duplicates_from_sorted_array_II.c) | | Medium |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/81_search_in_rotated_sorted_array.c)  | | Medium |
