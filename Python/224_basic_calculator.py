@@ -1,5 +1,5 @@
 class Solution:
-    def calculate(self, s: str) -> int:
+    def calculate(self, s):
 
         num, res = 0, 0
         stack = []
