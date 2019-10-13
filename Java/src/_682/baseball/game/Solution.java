@@ -4,7 +4,6 @@ import java.util.Stack;
 
 public class Solution {
     public int calPoints(String[] ops) {
-    	
     	int ans = 0;
     	Stack<Integer> stack = new Stack();
     	
