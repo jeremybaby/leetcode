@@ -47,7 +47,7 @@ class MovingAverage1_2:
 
 class MovingAverage1_3:
 
-    def __init__(self, size: int):
+    def __init__(self, size):
         """
         Initialize your data structure here.
         """
