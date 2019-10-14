@@ -55,6 +55,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/224_basic_calculator.py ) | Stack | Hard |
 | 227 | [Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/227_basic_calculator2.py ) | Stack | Medium |
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/231_power_of_two.py ) | Bit Manipulation | Easy |
+| 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/232_implement_queue_using_stacks.py ) | Stack | Easy |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/234_palindrome_linked_list.py ) | Linked List | Medium |
 | 260 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/260_single_number3.py ) | Bit Manipulation | Medium |
 | 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/268_missing_number.py ) | Bit Manipulation | Easy |
