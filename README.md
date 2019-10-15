@@ -30,6 +30,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/74_Serach_2D_Matrix.c)  | | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C](https://github.com/jeremybaby/leetcode/blob/master/Array/80_Remove_Duplicates_from_sorted_array_II.c) | | Medium |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/81_search_in_rotated_sorted_array.c)  | | Medium |
+| 84 | [Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/84_larget_recrangle_in_histogram.py ) | Stack | Hard |
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/088_merge_sorted_array.py ) | | Easy |
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/092_reverse_linked_list_II.py ) | Linked List | Medium |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/100_same_tree.py ) | | Easy |
