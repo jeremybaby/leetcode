@@ -92,4 +92,5 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 1154 | [Day of the Year](https://leetcode-cn.com/problems/day-of-the-year/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/1154_day_of_the_year.py ) | Array | Easy |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/1171_remove_zero_sum_consecutive_nodes_from_linked_list.py ) | Linked List | Medium |
 | 1185 | [Day of the Week](https://leetcode-cn.com/problems/day-of-the-week/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/1185_day_of_the_week.py ) | Array | Easy |
+| 1200 | [Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/1200_minimum_absolute_difference.py ) | Array | Easy |
 | 1217 | [Play with Chips](https://leetcode-cn.com/problems/play-with-chips/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/1217_play_with_chips.py ) | Array | Easy |
