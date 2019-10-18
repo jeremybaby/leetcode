@@ -22,7 +22,7 @@ class Solution:
 
 class Solution_Promote:
     """ 比上面做了一些简单的优化 """
-    def dayOfYear(self, date: str) -> int:
+    def dayOfYear(self, date):
         
         def isLeapYear(year):
             return (year % 4 == 0 and year % 100 != 0) or year % 400 == 0
