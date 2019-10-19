@@ -1,4 +1,4 @@
-class Solution1:
+class Solution1_1:
 
     """
        i与j的下标从1开始，第i行有i个元素，先全部置为1
@@ -32,7 +32,9 @@ class Solution1:
 
         return res
 
-   def generate2(self, numRows):
+class Solution1_2:
+
+   def generate(self, numRows):
 
         res = []
 
