@@ -34,6 +34,9 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/088_merge_sorted_array.py ) | | Easy |
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/092_reverse_linked_list_II.py ) | Linked List | Medium |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/100_same_tree.py ) | | Easy |
+| 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/118_pascal_triangle.py ) | Array | Easy |
+| 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/120_triangle.py ) | Dynamic Programming | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/121_best_time_to_buy_and_sell_stock.py ) | Array | Easy |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/136_single_number.py ) | Bit Manipulation | Easy |
 | 137 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/137_single_number2.py ) | Bit Manipulation | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/138_copy_list_with_random_pointer.py ) | Linked List | Medium |
