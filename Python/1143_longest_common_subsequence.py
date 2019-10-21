@@ -1,6 +1,6 @@
 class Solution1:
     """动态规划：循环写法"""
-    def longestCommonSubsequence(self, text1, text2) -> int:
+    def longestCommonSubsequence(self, text1, text2):
 
         if not text1 or not text2:
             return 0
