@@ -53,6 +53,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 187 | [Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/187_repeated_dna_sequences.py ) | Bit Manipulation | Medium |
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/190_reverse_bits.py ) | Bit Manipulation | Easy |
 | 191 | [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/191_number_of_1_Bits.py ) | Bit Manipulation | Easy |
+| 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/198_house_robber.py ) | Dynamic Programming | Easy |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/201_bitwise_and_of_numbers_range.py ) | Bit Manipulation | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/203_remove_linked_list_elements.py ) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/206_reverse_linked_list.py ) | Linked List | Easy |
