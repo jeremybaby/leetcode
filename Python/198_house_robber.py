@@ -1,9 +1,8 @@
 class Solution1:
-    """dp方程"""
+    """dp方程自底向下"""
     def rob(self, nums):
 
-        if not nums:
-            return 0
+        if not nums: return 0
 
         n = len(nums)
 

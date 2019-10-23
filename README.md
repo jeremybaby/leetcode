@@ -57,6 +57,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 201 | [Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/201_bitwise_and_of_numbers_range.py ) | Bit Manipulation | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/203_remove_linked_list_elements.py ) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/206_reverse_linked_list.py ) | Linked List | Easy |
+| 213 | [House Robber II](https://leetcode-cn.com/problems/house-robber-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/213_house_robber_II.py ) | Dynamic Programming | Medium |
 | 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/224_basic_calculator.py ) | Stack | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/622_implement_stack_using_queues.py ) | Stack | Easy |
 | 227 | [Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/227_basic_calculator2.py ) | Stack | Medium |
