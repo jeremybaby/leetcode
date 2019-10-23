@@ -64,6 +64,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/231_power_of_two.py ) | Bit Manipulation | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/232_implement_queue_using_stacks.py ) | Stack | Easy |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/234_palindrome_linked_list.py ) | Linked List | Medium |
+| 256 | [Paint House](https://leetcode-cn.com/problems/paint-house/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/256_paint_house.py ) | Dynamic Programming | Easy |
 | 260 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/260_single_number3.py ) | Bit Manipulation | Medium |
 | 268 | [Missing Number](https://leetcode-cn.com/problems/missing-number) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/268_missing_number.py ) | Bit Manipulation | Easy |
 | 275 | [H-Index II](https://leetcode-cn.com/problems/h-index-ii/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/275_H_index_II.c)  | | Medium |
