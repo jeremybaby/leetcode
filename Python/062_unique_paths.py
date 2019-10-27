@@ -12,35 +12,20 @@ class Solution1_1:
 
         return factorial(m + n - 2) // factorial(m - 1) // factorial(n - 1)
 
-import math
 class Solution1_2:
     """ 使用math.factorial, 最后用int()转"""
     def uniquePaths(self, m, n):
-        res = math.factorial(m+n-2) / math.factorial(m-1) / math.factorial(n-1)
-        return int()
+
+        from math import factorial
+        ans = factorial(m+n-2) / factorial(m-1) / factorial(n-1)
+
+        return int(ans)
 
 
-class Solution2_1:
+class Solution2:
     def uniquePaths(self, m, n):
 
-        # step1: 初始化dp (辣鸡写法)
-        dp = []
-        dp.append([1 for i in range(n)])
-        for i in range(1, m):
-            dp.append([0 if i else 1 for i in range(n)])
-
-        for i in range(1, m):
-            for j in range(1, n):
-                dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
-
-        return dp[m - 1][n - 1]
-
-
-class Solution2_2:
-    """上版辣鸡代码优化 O(mn)空间复杂度，O(mn)时间复杂度"""
-    def uniquePaths(self, m, n):
-
-        dp = [[1 * n] + [[1] + [0] * (n - 1) for _ in range(1, m)]]
+        dp = [[1] * n] + [[1] + [0] * (n - 1)] * (m - 1)
 
         for i in range(1, m):
             for j in range(1, n):
@@ -48,12 +33,11 @@ class Solution2_2:
 
         return dp[-1][-1]
 
-
 class Solution3:
     """优化为O(2n)"""
     def uniquePaths(self, m, n):
 
-        pre, cur = [1] * n, [1] * n
+        pre, cur = [1] * n, [1] + [0] * (n-1)
 
         for i in range(1, m):
             for j in range(1, n):

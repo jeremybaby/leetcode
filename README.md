@@ -22,9 +22,10 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/053_maximum_subarray.py ) | | Easy |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/058_length_of_last_word.py ) | | Easy |
 | 61 | [Rotate List](https://leetcode-cn.com/problems/rotate-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/061_rotate_list.py ) | Linked List | Medium |
+| 62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/062_unique_paths.py ) | Dynamic Programming | Easy |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/066_plus_one.py ) | | Easy |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/067_add_binary.py ) | | Easy |
-| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c)  | | Easy |
+| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/69_square_root_of_x.c),s[Python](https://github.com/jeremybaby/leetcode/blob/master/Python/69_sqrt.py) | Binary Search & Math| Easy |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/070_climbing_stairs.py ) | | Easy |
 | 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/71_simplify_path.py ) | Stack | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)  | [C](https://github.com/jeremybaby/leetcode/blob/master/binarySearch/74_Serach_2D_Matrix.c)  | | Medium |
