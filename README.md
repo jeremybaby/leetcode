@@ -55,6 +55,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 190 | [Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/190_reverse_bits.py ) | Bit Manipulation | Easy |
 | 191 | [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/191_number_of_1_Bits.py ) | Bit Manipulation | Easy |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/198_house_robber.py ) | Dynamic Programming | Easy |
+| 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/200_number_of_islands.py ) | Union Find & DFS & BFS | Medium |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/201_bitwise_and_of_numbers_range.py ) | Bit Manipulation | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/203_remove_linked_list_elements.py ) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/206_reverse_linked_list.py ) | Linked List | Easy |
@@ -81,6 +82,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/461_hamming_distance.py ) | Bit Manipulation | Easy |
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/496_next_greater_element_I.py ) | Stack | Easy |
 | 503 | [Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/503_next_greater_element_II.py ) | Stack | Medium |
+| 547 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/547_friend_circles.py ) | Union Find & DFS & BFS | Medium |
 | 622 | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/622_design_circular_queue.py ) | Queue | Easy |
 | 636 | [Exclusive Time of Functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/636_exlcusive_time_of_functions.py ) | Stack | Medium |
 | 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/682_baseball_game.py ) | Stack | Easy |
