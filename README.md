@@ -34,6 +34,7 @@ Leetcode个人主页：[saltingshelby](https://leetcode-cn.com/u/saltingshelby/)
 | 84 | [Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/84_larget_recrangle_in_histogram.py ) | Stack | Hard |
 | 88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/088_merge_sorted_array.py ) | | Easy |
 | 92 | [Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/092_reverse_linked_list_II.py ) | Linked List | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/94_binary_tree_inorder_traversal.py ) | Tree | Medium |
 | 100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/100_same_tree.py ) | | Easy |
 | 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/118_pascal_triangle.py ) | Array | Easy |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Python](https://github.com/jeremybaby/leetcode/blob/master/Python/120_triangle.py ) | Dynamic Programming | Medium |
